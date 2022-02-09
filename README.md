@@ -1,1 +1,1 @@
-# Repositório de projetos de estudo - Java Alura
+# Repositório de projetos de estudo - Formação Java Alura
